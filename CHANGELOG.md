@@ -10,6 +10,8 @@ detailed from the current development cycle onward.
 
 ## [Unreleased]
 
+## [0.9.0] - 2026-10-05
+
 > **Read the Breaking entries under Changed before upgrading.** `pattern()` takes the pattern text
 > instead of a `java.util.regex.Pattern`, and refuses a pattern past the limits the Raoh
 > Specification 0.9.0 sets. `iso8601()` no longer accepts `24:00:00` with a fraction.
@@ -1084,7 +1086,8 @@ detailed from the current development cycle onward.
   `Presence`), `Map<String, Object>` decoders, error model, a Spring Boot example, and a README with
   an Elm-decoder comparison.
 
-[Unreleased]: https://github.com/raoh-project/raoh-java/compare/v0.8.0...HEAD
+[Unreleased]: https://github.com/raoh-project/raoh-java/compare/v0.9.0...HEAD
+[0.9.0]: https://github.com/raoh-project/raoh-java/compare/v0.8.0...v0.9.0
 [0.8.0]: https://github.com/raoh-project/raoh-java/compare/v0.7.2...v0.8.0
 [0.7.2]: https://github.com/raoh-project/raoh-java/compare/v0.7.1...v0.7.2
 [0.7.1]: https://github.com/raoh-project/raoh-java/compare/v0.7.0...v0.7.1
