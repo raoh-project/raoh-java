@@ -23,7 +23,7 @@
              scalar-value order, temporal grammar and the pattern language. -->
         <dependency>
             <groupId>net.unit8.199x</groupId>
-            <artifactId>199x-notation</artifactId>
+            <artifactId>notation-199x</artifactId>
             <version>${notation199x.version}</version>
         </dependency>
 
